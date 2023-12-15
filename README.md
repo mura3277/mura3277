@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![wanony's GitHub stats](https://github-readme-stats.vercel.app/api?username=mura3277&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mura3277&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mura3277/mura3277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
